@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog</string>
+
+    <string name="message">Хотите поменять фон?</string>
+
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зелёный</string>
+
+    <color name="red_с">#FF0000</color>
+    <color name="yellow_с">#FFFF00</color>
+    <color name="green_с">#00FF00</color>
+</resources>
